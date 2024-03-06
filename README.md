@@ -2,13 +2,20 @@
 **Desenvolvedor júnior em Python.**
 
 ## Experiências
+![PYTHON](https://img.shields.io/badge/-PYTHON-000?style=flat&logo=PYTHON&logoColor=9644F4)
+![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3&logoColor=9644F4)
+![HTML5](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5&logoColor=9644F4)
+
 <br>
-<div>
-    <img align="center" alt="Python" height="45" width="55" src="https://i.imgur.com/w6HYuAI.png">
-    <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<br> 
+
+<div align="left" style="display:flex; justify-content: space-evenly;">
+    <a href="https://github.com/PauloLimaj/"></a>
+    <img alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=PauloLimaj&theme=midnight-purple&hide_border=true&locale=pt-br" title="Github Contributions"/>
+    <br>
+    <img alt="Paulo Lima GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PauloLimaj&theme=midnight-purple&show_icons=true&hide_border=true&locale=pt-br&rank_icon=github" title="Paulo Lima Status Github"/>
 </div>
-<br>
+
 
 ## Hobbies
   - Praticar Esportes
@@ -27,9 +34,4 @@
  - Irei trazer vários códigos por aqui
 
  <br>
- <div align="center" style="display:flex; justify-content: space-evenly;">
-    <a href="https://github.com/PauloLimaj/">
-    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=PauloLimaj&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=pt-br&border_radius=10&rank_icon=github"/>
-    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloLimaj&layout=compact&langs_count=7&theme=algolia&locale=pt-br&border_radius=10&"/>
-  </a>
-</div>
+
