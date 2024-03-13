@@ -1,5 +1,5 @@
 # Olá, eu me chamo Paulo Lima!
-**Desenvolvedor júnior em Python.**
+**Desenvolvedor back-end.**
 
 ## Experiências
 ![PYTHON](https://img.shields.io/badge/-PYTHON-000?style=flat&logo=PYTHON&logoColor=9644F4)
