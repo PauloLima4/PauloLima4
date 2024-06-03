@@ -31,7 +31,5 @@
 
 ## Informações de contato
  - Mande um email para mim por aqui: pl207754@gmail.com
- - Irei trazer vários códigos por aqui
-
  <br>
 
